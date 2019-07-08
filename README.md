@@ -8,3 +8,4 @@ Neural network for mnist data set is there.
 Date prediction is for predicting date where directly you can't apply any algorithm directly.You have to change date format and then apply your model.
 
 Thanks For your supports !! Devesh
+if you have any problem contact me: deveshpandey142@gmail.com
